@@ -1,4 +1,6 @@
 
+Se utilizó un template para la realización del CV virtual. Se hicieron diferentes modificaciones en el código para lograr el resultado deseado.
+
 TITLE: 
 Present - 100% Fully Responsive Free HTML5 Bootstrap Template
 
